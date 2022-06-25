@@ -1,8 +1,18 @@
 # Hackintosh_EFI_OpenCore_MSI_Z490A_PRO_MS7C75
 EFI(based on OpenCore without GUI) files for MSI Z490A-PRO(MS7C75). Intel UHD graphics is NOT tested.  
 also available at https://cgtsoft.com/archives/108/.
-
-## How to use it?
+## Before we start...
+**I am not responsible for your PC. For example, if your mishandling causes your PC to ~~become a tree and~~ not boot, you are responsible for it.**  
+## Some of my hardware
+|Hardware|Detail|
+|  ----  | ----  |
+|Motherboard|MSI Z490-A PRO (MS-7C75)|
+|CPU|Intel i5-10600KF|
+|Memory|ADATA XPG-Z1 DDR4-3600 8G*2|
+|Graphic|GIGABYTE Radeon RX 5500 XT|
+|SSD|WD_BLACK SN750 500GB|
+|Wi-Fi & Bluetooth|BCM94360CD|
+## OK, Let's start. How to use it?
 - Download latest EFI files (**EFI_ms7c75_xxx.zip**) from [**Releases**](https://github.com/ianchb/Hackintosh_EFI_OpenCore_MSI_Z490A_PRO_MS7C75/releases) and unzip it. Please note that there may be Pre-release versions which can be unstable but includes new features.  
 ![image](https://user-images.githubusercontent.com/45872450/175772521-2c06b751-26c3-44cd-950e-1591f369b654.png)
 - Customize your USBPorts.kext. You can get the template from **USB.zip**.  
