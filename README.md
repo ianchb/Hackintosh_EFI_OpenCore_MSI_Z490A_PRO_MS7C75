@@ -12,6 +12,11 @@ also available at https://cgtsoft.com/archives/108/.
 |Graphic|GIGABYTE Radeon RX 5500 XT|
 |SSD|WD_BLACK SN750 500GB|
 |Wi-Fi & Bluetooth|BCM94360CD|
+## Supported macOS versions
+✔ 10.15 Catalina  
+✔ 11 Big Sur  
+✔ 12 Monterey  
+✔ 13 (Beta) Ventura *Only in Pre-release now*
 ## OK, Let's start. How to use it?
 - Download latest EFI files (**EFI_ms7c75_xxx.zip**) from [**Releases**](https://github.com/ianchb/Hackintosh_EFI_OpenCore_MSI_Z490A_PRO_MS7C75/releases) and unzip it. Please note that there may be Pre-release versions which can be unstable but includes new features.  
 ![image](https://user-images.githubusercontent.com/45872450/175772521-2c06b751-26c3-44cd-950e-1591f369b654.png)
