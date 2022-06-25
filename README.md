@@ -32,4 +32,5 @@ Based on **7C75v2D**. Download BIOS from [MSI](https://download.msi.com/bos_exe/
 **Enable VT-d**  
 **Enable Resizable BAR**  
 **Disable CFG Lock**
-- Enjoy!
+- Enjoy!  
+![image](https://user-images.githubusercontent.com/45872450/175775443-bc20a2ed-c645-4844-82ba-1ba91869480e.png)
