@@ -3,6 +3,7 @@ EFI(based on OpenCore without GUI) files for MSI Z490A-PRO(MS7C75). Intel UHD gr
 also available at https://cgtsoft.com/archives/108/.
 ## Before we start...
 **I am not responsible for your PC. For example, if your mishandling causes your PC to ~~become a tree and~~ not boot, you are responsible for it.**  
+Note: It seems that my graphics card has some problems, so updates to this repo may be slow.  
 ## Some of my hardware
 |Hardware|Detail|
 |  ----  | ----  |
