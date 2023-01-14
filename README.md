@@ -23,7 +23,7 @@ also available at https://www.cgtsoft.com/archives/108/.
 - Customize your USBPorts.kext. You can get the template from **USB.zip**.  
 Just delete the unneeded ports according to the callout (JUSBx) next to the USB ports in use on the motherboard.  
 Customization is finished when 15 ports remain. (JUSB3/4 need additional confirmation)  
-Guide: https://cgtsoft.com/archives/203/  
+Guide: https://www.cgtsoft.com/archives/203/  
 ![image](https://user-images.githubusercontent.com/45872450/175773594-0f82b192-b324-4ec6-bba1-287b1d1436cd.png)
 - Replace your custom USBPorts.kext in ..\OC\Kexts. Then put all files into ESP (EFI System Partition) and add Opencore.efi to the boot menu.
 - Check your BIOS settings. Here's something you care:  
